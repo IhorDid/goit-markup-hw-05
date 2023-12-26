@@ -656,8 +656,5 @@ img {
 .checkbox:checked + .label-checkbox > .form-checkbox {
   background-color: #404bbf;
   border: none;
-}
-
-.checkbox:checked + .label-checkbox > .form-checkbox > .checkbox-icon {
   fill: #f4f4fd;
 }
